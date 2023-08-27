@@ -163,3 +163,12 @@ body {
   font-family: var(--ff-accent);
   color: var(--clr-primary-400);
 }
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color:  hsl(158, 36%, 37%);
+}
